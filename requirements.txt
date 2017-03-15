@@ -2,6 +2,7 @@ blinker>=1.4
 cloudpickle>=0.2.2
 docutils>=0.13.1
 doit>=0.30.3
+Jinja2>=2.9.5
 Logbook>=1.0.0
 lxml>=3.7.3
 Mako>=1.0.6
