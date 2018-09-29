@@ -13,7 +13,8 @@ An earthy soup -- tastes of mushrooms and awesome. This makes a lot of soup. You
 
 As I've got it here, it is vegan, gluten free, and dairy free. It does have soy.
 <!--TEASER_END-->
-##Ingedients
+## Ingedients
+
 * 2 T vegan butter, margarine, or coconut oil
 * 3&frac12; lbs sliced mushrooms
 * &frac12; lb sliced portabello mushroom (the big ones)
@@ -26,7 +27,8 @@ As I've got it here, it is vegan, gluten free, and dairy free. It does have soy.
 * 3 T potato starch
 * salt & pepper to taste
 
-##Preraration
+## Preraration
+
 1. Put the fat into a large stock pot and melt it over high heat
 1. Add a 1 cup or so of the vegetable broth
 1. When the broth boils, turn the temperature down and toss in the onion, garlic, and all of the sliced mushroom, but not the big portabellos.
@@ -44,7 +46,8 @@ As I've got it here, it is vegan, gluten free, and dairy free. It does have soy.
 1. Pour in the big portobellos, and be sure to get all of the liquid out of the skillet. You can use some vegetable broth to deglaze that pan if anything stuck. Get all the good stuff!
 1. Stir, scoope, & enjoy.
 
-##Notes
+## Notes
+
 This is more or less how I made it, but I didn't measure anything. I reverse engineered the recipe based on the empty containers, and the relative emptiness of the non-empty conainters.
 
 Potato starch goes a long way. You can easily turn this into a giant brick of mushroom goo if you go too crazy with it. If it does get too thick, but is still stirable, then add more broth.
