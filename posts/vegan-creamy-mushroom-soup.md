@@ -44,7 +44,7 @@ As I've got it here, it is vegan, gluten free, and dairy free. It does have soy.
 1. In that container, put in about a &frac12; cup of vegetable broth, and 1 T of the potato starch. Shake it up until the potato starch is all incorporated. It doesn't take much.
 1. Pour the starch into the soup. Stir it in relatively quickly. Give it a minute or 2 and test the thickness. If you want it thicker, make up another slurry with broth and starch, and do it again. Keep going until you get the desired thickness.
 1. Pour in the big portobellos, and be sure to get all of the liquid out of the skillet. You can use some vegetable broth to deglaze that pan if anything stuck. Get all the good stuff!
-1. Stir, scoope, & enjoy.
+1. Stir, scoop, & enjoy.
 
 ## Notes
 
